@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MyWeatherSwitch.exe" version="1.0.0.0" publicKeyToken="1244bd6c4e5dd58d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MyWeatherSwitch" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MyWeatherSwitch.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyWeatherSwitch.exe" size="146944">
+      <assemblyIdentity name="MyWeatherSwitch" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tknWpb1fPa5378JyV7nHE9iK0FbpX8JVRgIiRTW9s60=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="521216">
+      <assemblyIdentity name="Newtonsoft.Json" version="8.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>pxPak1priJ2uuVQcJHuP5s1NzcMXy4Zijb95yNL0d48=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MyWeatherSwitch.exe.config" size="1158">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FlusJs+PJcs4yyXc/B/BCta16anCT0zBdo0hraJTJPc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DOUG-HP-ENVY\Doug" issuerKeyHash="2f3dab315c034a0ae87329bda17affd8bc5f2170" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vdGQnmhdIhvY+RqpcpvbxAcnT15Dbw0WvBSIh4odEpk=</DigestValue></Reference></SignedInfo><SignatureValue>6F69u3JRRNI09fl2Z+oZ9pCCdUP9C3aA+LzbKGtdIETST9ajYLHEP5HFfczEaLGIlgxTe5OAxd8lzmVJTpRskIIThp/YxFp7oGbprNaM9RS+uQhWJZSzfdqbuzga7IdOjm4ZkfJu84KT/rdQyXS3pudOj4M/pVs6at0ZRTptesw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>6XCceVZb1BmF3nsqm2+YaAcGDWOYenMcZoLQqxIOUwqeuAaHkuhh2bNZZtFWRvEasfc9mUo7dP6PIc7ajcFxRVjaZs1/Nfvd5gcQRDZny8zm6H36vk8eqAMXXbIOL0POxn4/GH93cL6PSkp0lHnoGpHt+NKRB5r2BkeNRYFSv8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="99121d8a878814bc160d6f435e4f2707c4db9b72a91af9d81b225d689e90d1bd" Description="" Url=""><as:assemblyIdentity name="MyWeatherSwitch.exe" version="1.0.0.0" publicKeyToken="1244bd6c4e5dd58d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DOUG-HP-ENVY\Doug</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OA60Yi49xuM+vKNKkg8Zb9bOJ69dTA2xKuOcawgRuGE=</DigestValue></Reference></SignedInfo><SignatureValue>mxxgujb3VehTKRTIzLbQD1inx5ygiBjOTOx4CWfj0dfbasnv+zhq1HaZ+60qviSkF4qy8KebWAn6KuJhhfBLRPJu+8IeLkCcAZNNNy0hXaFZzrS6jRjm8CIjeHrUx2/rh9lkP/HI5DSwhXgm8QjkW/cCB68kW5M8CtMuX6U8eY8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6XCceVZb1BmF3nsqm2+YaAcGDWOYenMcZoLQqxIOUwqeuAaHkuhh2bNZZtFWRvEasfc9mUo7dP6PIc7ajcFxRVjaZs1/Nfvd5gcQRDZny8zm6H36vk8eqAMXXbIOL0POxn4/GH93cL6PSkp0lHnoGpHt+NKRB5r2BkeNRYFSv8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQd49bObebMbFAVFy1+w+aCDANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIARABPAFUARwAtAEgAUAAtAEUATgBWAFkAXABEAG8AdQBnMB4XDTE2MDExNjA2MTMzN1oXDTE3MDExNTEyMTMzN1owLTErMCkGA1UEAx4iAEQATwBVAEcALQBIAFAALQBFAE4AVgBZAFwARABvAHUAZzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA6XCceVZb1BmF3nsqm2+YaAcGDWOYenMcZoLQqxIOUwqeuAaHkuhh2bNZZtFWRvEasfc9mUo7dP6PIc7ajcFxRVjaZs1/Nfvd5gcQRDZny8zm6H36vk8eqAMXXbIOL0POxn4/GH93cL6PSkp0lHnoGpHt+NKRB5r2BkeNRYFSv8ECAwEAATANBgkqhkiG9w0BAQsFAAOBgQDFwRTxuznZ3efmhlCdYSmDolqQsIAYuu1QRu2sDIOX9lYxeD+DXYJ3xBhewNwyGnFvwiIUkXgcq8BpX9B14lf9yVA6rBQmRO0g1ZGodyKOwMUbNogtMz98q4drnoi9iUy0YAYBkn7YmIJkH5pfy66TpeVma/w/vV4wGpxdchbQFA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

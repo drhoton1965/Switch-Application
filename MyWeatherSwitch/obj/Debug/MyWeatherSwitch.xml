@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyWeatherSwitch
+</name>
+</assembly>
+<members>
+<member name="M:MyWeatherSwitch.clsURLInfo.DownloadFile(System.String)">
+	<summary>
+ Function to download a file from URL and save it to local drive
+ </summary>
+	<param name="_URL">URL address to download file</param>
+</member><member name="P:MyWeatherSwitch.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MyWeatherSwitch.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MyWeatherSwitch.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

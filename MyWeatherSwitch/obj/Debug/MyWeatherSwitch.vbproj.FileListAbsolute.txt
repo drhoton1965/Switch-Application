@@ -1,0 +1,33 @@
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.exe.config
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.exe
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.pdb
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.xml
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.Form1.resources
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.Resources.resources
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.vbproj.GenerateResource.Cache
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.exe
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.xml
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.pdb
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doug\AppData\Local\Temporary Projects\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.vbprojResolveAssemblyReference.cache
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.exe.config
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.exe
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.xml
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.pdb
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.frmMain.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.Resources.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.vbproj.GenerateResource.Cache
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.exe
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.pdb
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.xml
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.frmSystemConfig.resources
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.exe.manifest
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\bin\Debug\MyWeatherSwitch.application
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.exe.manifest
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.application
+C:\Users\Doug\Documents\Visual Studio 2012\Projects\MyWeatherSwitch\MyWeatherSwitch\obj\Debug\MyWeatherSwitch.vbprojResolveAssemblyReference.cache
