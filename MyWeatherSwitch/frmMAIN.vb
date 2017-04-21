@@ -33,7 +33,11 @@ Public Class frmMain
    'Public Shared jsonKeyValues As New Dictionary(Of String, String)()
    Public jo As JObject
 
-
+   '* ***************************************** *
+   '* Testing additions for GitHub for Learning *
+   '* Bla Bla Bla *
+   '* ***************************************** *
+   
    Private Sub btnLoadURL_Click(sender As Object, e As EventArgs) Handles btnLoadURL.Click
       Dim PullStatus As String = ""
       urlInfo.PullData(jsonCurOBS, curRESP, curOBS, curFORECAST, curASTRONOMY, curHISTORY, curPWS, urlInfo, obs, PullStatus)
